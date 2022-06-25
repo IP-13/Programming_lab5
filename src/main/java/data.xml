@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tickets>
+    <ticket creationDate="2022-06-22T17:41:18.439679600" discount="17" eventDescription="description_is_here" eventId="1" eventName="add_event" eventType="FOOTBALL" isRefundable="false" price="1000" ticketId="1" ticketName="addTicket" ticketType="USUAL" x="57" y="83"/>
+    <ticket creationDate="2022-06-25T18:34:47.615222100" discount="17" eventDescription="description_is_here" eventId="2" eventName="add_event" eventType="FOOTBALL" isRefundable="false" price="1000" ticketId="2" ticketName="addTicket" ticketType="USUAL" x="57" y="83"/>
+</tickets>

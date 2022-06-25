@@ -1,0 +1,2 @@
+execute_script
+C:\Users\Acer\IdeaProjects\lab_5.v2.0\src\main\java\script2.txt

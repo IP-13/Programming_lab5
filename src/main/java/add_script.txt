@@ -1,0 +1,13 @@
+add
+addTicket
+57
+83
+1000
+17
+false
+USUAL
+add_event
+description_is_here
+FOOTBALL
+save
+exit
